@@ -1,0 +1,8 @@
+c:\users\raphaella\documents\visual studio 2012\Projects\MOONCAFE\MOONCAFE\obj\Debug\MOONCAFE.csprojResolveAssemblyReference.cache
+c:\users\raphaella\documents\visual studio 2012\Projects\MOONCAFE\MOONCAFE\obj\Debug\MOONCAFE.Form1.resources
+c:\users\raphaella\documents\visual studio 2012\Projects\MOONCAFE\MOONCAFE\obj\Debug\MOONCAFE.Properties.Resources.resources
+c:\users\raphaella\documents\visual studio 2012\Projects\MOONCAFE\MOONCAFE\obj\Debug\MOONCAFE.csproj.GenerateResource.Cache
+c:\users\raphaella\documents\visual studio 2012\Projects\MOONCAFE\MOONCAFE\bin\Debug\MOONCAFE.exe
+c:\users\raphaella\documents\visual studio 2012\Projects\MOONCAFE\MOONCAFE\bin\Debug\MOONCAFE.pdb
+c:\users\raphaella\documents\visual studio 2012\Projects\MOONCAFE\MOONCAFE\obj\Debug\MOONCAFE.exe
+c:\users\raphaella\documents\visual studio 2012\Projects\MOONCAFE\MOONCAFE\obj\Debug\MOONCAFE.pdb
